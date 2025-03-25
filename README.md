@@ -2,7 +2,7 @@
 ## 2025 GGJ 合作游戏 BUBBLES
 ![image](https://github.com/user-attachments/assets/25d26afb-2073-4fc3-9568-8470fe95d19c)  
 
-bilibili链接：https://www.bilibili.com/video/BV1PafpY4EXw/?spm_id_from=888.80997.embed_other.whitelist&t=9.025929&bvid=BV1PafpY4EXw      
+bilibili链接：https://www.bilibili.com/video/BV1PafpY4EXw/?spm_id_from=888.80997.embed_other.whitelist&t=9.025929&bvid=BV1PafpY4EXw        
 ## 游戏介绍
 一款通过吹鼻涕泡把自己起飞的平台跳跃游戏.(一款不能跳跃的平台跳跃游戏[憋笑])
 
@@ -19,6 +19,11 @@ Marcus --- 策划，程序       
 番瓜 ---  美术
 
 阿杰 --- 美术
+
+## 下载链接：
+百度网盘：https://pan.baidu.com/share/init?surl=Jxv-fgfHRvkOmIeSQzt0aw&pwd=DBTP
+提取码：DBTP
+
 ## 照片预览
 ![image](https://github.com/user-attachments/assets/2576c2b1-8d6c-4576-b4af-69771debec48)  
 ![image](https://github.com/user-attachments/assets/f98e8bc3-1e2a-4dd7-acfd-8ad047622b5f)  
